@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+    background-image: url("booking.jpg");
+}
+h1{
+    text-align: center;
+}
+.Container{
+    max-width: 550px;
+    margin: auto;
+    text-align: center;
+    height: 540px;
+    border: black;
+    background-color: violet;
+    margin-top: 30px;
+}
+input{
+    margin-bottom: 25px;
+    text-align: center;
+    height: 35px;
+    text-size-adjust: 20px;
+    width: 250px;
+
+}
+.label{
+    text-align: center;
+    border: black;
+}
+
+.form-contr1{
+    width: 125px;
+}
+.button{
+    width: 90px;
+    margin-right: 110px;
+}

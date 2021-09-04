@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+    background-image: url("guest.jpg");
+    
+}
+h1{
+    text-align: center;
+}
+.Container{
+    max-width: 550px;
+    margin: auto;
+    text-align: center;
+    border: black;
+    background-color: coral;
+    height: 590px;
+    margin-top: 25px;
+
+}
+.form-contr1{
+    margin-bottom: 15px;
+    height: 35px;
+    margin-left: 35px;
+    text-align: center;
+    width: 250px;
+    border-radius: 10px;
+    text-size-adjust: 20px;
+    border: black;
+}
+.input{
+    height: 70px;
+    width: 250px;
+}
+.label{
+    text-align: center;
+}
+.button{
+    width: 90px;
+    height: 30px;
+    margin-top: 20px;
+    margin-right: 40px;
+    
+}
